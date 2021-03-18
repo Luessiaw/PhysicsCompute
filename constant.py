@@ -1,6 +1,8 @@
+# This file is used to save some usual constants.
 
-# 采用国际单位制
-# 数值优先取自维基百科
+# all constants adopt SI
+# value from Wiki
+
 from math import *
 
 mass = {
