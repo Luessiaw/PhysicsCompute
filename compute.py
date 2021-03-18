@@ -1,3 +1,5 @@
+# This file is the main program.
+
 from constant import *
 from mySys import getCommand, open, openAll
 from mathFunc import *
